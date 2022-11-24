@@ -1,0 +1,47 @@
+body{
+	background-color: #3787b6;
+	color: #d1c7c7;
+	font-size: 17px;
+	font-family: Arial;
+	text-align:center;
+}
+h1{
+	font-size: 27px;
+	text-align: center;
+	font-weight: bolder;
+}
+
+h2{
+	font-size: 25px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 20px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: pink;
+
+}
+div{
+	background:#459dc2;
+	box-shadow:0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius:10px;
+	border: 2px solid #3cedfb;
+	padding:10px;
+	margin:50px;
+}
+img{
+	width: 300px;
+	text-align: center;
+	border-radius: 30%;
+}
+@media (max-width:720px)
